@@ -1,4 +1,4 @@
-#Leia dois int (a e b) e imprima: a + b = X | a - b = Y | a * b = Z
+#16.Leia dois int (a e b) e imprima: a + b = X | a - b = Y | a * b = Z
 a = int(input("Digite o primeiro número inteiro: "))
 b = int(input("Digite o segundo número inteiro: ")) 
 soma = a + b
